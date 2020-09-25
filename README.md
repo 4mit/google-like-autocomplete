@@ -6,3 +6,5 @@
 - When no search results are found, an empty card is displayed
 - The card list would be scrollable
 - The highlighted card (via keyboard/mouse) will scroll into view
+
+Demo : https://codesandbox.io/s/autosuggest-drwh2
